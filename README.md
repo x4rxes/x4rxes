@@ -1,16 +1,36 @@
 ### Hi there 👋
+Specialising in DFIR and DevSecOps.
 
-<!--
-**x4rxes/x4rxes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📚 Credentials
+- Certified Information Systems Security Professional (CISSP)
+- Certificate of Cloud Security Knowledge (CCSK)
 
-Here are some ideas to get you started:
+#### 💬 Social Media
+- Chronically lurking on [infosec.exchange](https://infosec.exchange/@x4rxes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Technologies
+<details>
+<summary>
+  <strong>Security:</strong>
+</summary>
+<ul>
+  <li>Splunk Enterprise Security, Microsoft Sentinel, IBM QRadar</li>
+  <li>SentinelOne, Windows Defender</li>
+  <li>YARA, osQuery, FleetDM, Velociraptor, AssemblyLine 4</li>
+  <li>Qualys Cloud Agent</li>
+  <li>AWS, Google Cloud, Azure</li>
+  <li>PowerShell, Bash, Python</li>
+</ul>
+</details>
+<details>
+<summary>
+  <strong>DevOps:</strong>
+</summary>
+<ul>
+  <li>Ansible, Terraform</li>
+  <li>Kubernetes, CRI-O, Docker/Podman</li>
+  <li>Prometheus, Grafana, Zabbix, SignalFX</li>
+  <li>VMware vSphere</li>
+  <li>Linux</li>
+</ul>
+</details>
